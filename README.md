@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/julia-mota/" target="_blank">
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
   </a>
-  <a href="julmota38@gmail.com" target="_blank">
+  <a href="mailto:julmota38@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo"  />
   </a>
  
