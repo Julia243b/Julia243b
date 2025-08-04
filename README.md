@@ -3,6 +3,8 @@
 🌱 Estudante de **Desenvolvimento Front-end**.
 <br>
 🎓 Em formação com o **Instituto PROA** + **Serasa Experian** - **Transforme-se**.
+<br>
+📈 Acompanhe o desenvolvimento dos meus projetos e veja de perto a minha evolução.
 
 ## 🚀 Minha jornada de aprendizado inclui:
 - 💻 **HTML:** A base de toda a web.
