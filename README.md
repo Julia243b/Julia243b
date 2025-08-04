@@ -4,7 +4,7 @@
 <br>
 🎓 Em formação com o **Instituto PROA** + **Serasa Experian** - **Transforme-se**.
 <br>
-📈 Acompanhe o desenvolvimento dos meus projetos e veja de perto a minha evolução.
+📈 Acompanhe minha evolução e celebre comigo cada novo aprendizado no mundo do código.
 
 ## 🚀 Minha jornada de aprendizado inclui:
 - 💻 **HTML:** A base de toda a web.
