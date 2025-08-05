@@ -1,12 +1,13 @@
 <h1 align="center">Olá👋, eu sou Julia Mota</h1>
 
 🌱 Estudante de **Desenvolvimento Front-end**.
-<br>
+
 🎓 Em formação com o **Instituto PROA** + **Serasa Experian** - **Transforme-se**.
-<br>
+
 📈 Acompanhe minha evolução e celebre comigo cada novo aprendizado no mundo do código.
 
 ## 🚀 Minha jornada de aprendizado inclui:
+
 - 💻 **HTML:** A base de toda a web.
 - 🎨 **CSS:** Criando designs atraentes e responsivos.
 - 💡 **JavaScript:** Adicionando interatividade e dinamismo às páginas.
@@ -37,6 +38,7 @@
 </p>
 
 ### 📫 Como me encontrar:
+
   <a href="https://www.linkedin.com/in/julia-mota/" target="_blank">
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
   </a>
